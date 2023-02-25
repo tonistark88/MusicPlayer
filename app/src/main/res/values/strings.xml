@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="todo">TODO</string>
+    <string name="search_songs_playlists_and_artist">Search songs, playlists, and artist</string>
+    <string name="favorites">Favorites</string>
+    <string name="playlists">Playlists</string>
+    <string name="recent">Recent</string>
+    <string name="all_sangs">All Songs</string>
+    <string name="shuffle_playback">Shuffle playback</string>
+    <string name="artist">artist</string>
+    <string name="hello">hello</string>
+    <string name="chat">_chat</string>
+    <string name="group">group</string>
+    <string name="channel">channel</string>
+    <string name="folder">Folder</string>
+    <string name="Album">album</string>
+    <string name="Artists">artists</string>
+    <string name="Songs">songs</string>
+    <string name="search_for_songs_on_device">Search for songs on device</string>
+    <string name="music_title">Music Title</string>
+    <string name="_00_00">00:00</string>
+    <string name="music_artist">music artist</string>
+    <string name="open">open</string>
+    <string name="Lyrics">Lyrics</string>
+    <string name="no_lyrics">No Lyrics</string>
+    <string name="add">Add</string>
+    <string name="play_later">Play later</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="add_to_playlist">Add to playlist</string>
+    <string name="add_to_queue">Add to queue</string>
+</resources>
